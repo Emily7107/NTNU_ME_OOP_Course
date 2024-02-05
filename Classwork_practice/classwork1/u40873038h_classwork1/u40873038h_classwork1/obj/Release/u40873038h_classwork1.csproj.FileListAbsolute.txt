@@ -1,0 +1,6 @@
+C:\Users\Emily Wu\Desktop\庭妤的資料\作業\物件導向\classwork_practice\classwork1\u40873038h_classwork1\u40873038h_classwork1\bin\Release\u40873038h_classwork1.exe.config
+C:\Users\Emily Wu\Desktop\庭妤的資料\作業\物件導向\classwork_practice\classwork1\u40873038h_classwork1\u40873038h_classwork1\bin\Release\u40873038h_classwork1.exe
+C:\Users\Emily Wu\Desktop\庭妤的資料\作業\物件導向\classwork_practice\classwork1\u40873038h_classwork1\u40873038h_classwork1\bin\Release\u40873038h_classwork1.pdb
+C:\Users\Emily Wu\Desktop\庭妤的資料\作業\物件導向\classwork_practice\classwork1\u40873038h_classwork1\u40873038h_classwork1\obj\Release\u40873038h_classwork1.csproj.CoreCompileInputs.cache
+C:\Users\Emily Wu\Desktop\庭妤的資料\作業\物件導向\classwork_practice\classwork1\u40873038h_classwork1\u40873038h_classwork1\obj\Release\u40873038h_classwork1.exe
+C:\Users\Emily Wu\Desktop\庭妤的資料\作業\物件導向\classwork_practice\classwork1\u40873038h_classwork1\u40873038h_classwork1\obj\Release\u40873038h_classwork1.pdb

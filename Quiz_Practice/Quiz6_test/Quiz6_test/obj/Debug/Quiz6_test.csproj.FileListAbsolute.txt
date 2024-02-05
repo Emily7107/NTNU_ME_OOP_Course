@@ -1,0 +1,10 @@
+C:\Users\Emily Wu\Desktop\庭妤的資料\作業\物件導向\109_Quiz_Practice\Quiz6_test\Quiz6_test\bin\Debug\Quiz6_test.exe.config
+C:\Users\Emily Wu\Desktop\庭妤的資料\作業\物件導向\109_Quiz_Practice\Quiz6_test\Quiz6_test\bin\Debug\Quiz6_test.exe
+C:\Users\Emily Wu\Desktop\庭妤的資料\作業\物件導向\109_Quiz_Practice\Quiz6_test\Quiz6_test\bin\Debug\Quiz6_test.pdb
+C:\Users\Emily Wu\Desktop\庭妤的資料\作業\物件導向\109_Quiz_Practice\Quiz6_test\Quiz6_test\obj\Debug\Quiz6_test.csproj.AssemblyReference.cache
+C:\Users\Emily Wu\Desktop\庭妤的資料\作業\物件導向\109_Quiz_Practice\Quiz6_test\Quiz6_test\obj\Debug\Quiz6_test.Form1.resources
+C:\Users\Emily Wu\Desktop\庭妤的資料\作業\物件導向\109_Quiz_Practice\Quiz6_test\Quiz6_test\obj\Debug\Quiz6_test.Properties.Resources.resources
+C:\Users\Emily Wu\Desktop\庭妤的資料\作業\物件導向\109_Quiz_Practice\Quiz6_test\Quiz6_test\obj\Debug\Quiz6_test.csproj.GenerateResource.cache
+C:\Users\Emily Wu\Desktop\庭妤的資料\作業\物件導向\109_Quiz_Practice\Quiz6_test\Quiz6_test\obj\Debug\Quiz6_test.csproj.CoreCompileInputs.cache
+C:\Users\Emily Wu\Desktop\庭妤的資料\作業\物件導向\109_Quiz_Practice\Quiz6_test\Quiz6_test\obj\Debug\Quiz6_test.exe
+C:\Users\Emily Wu\Desktop\庭妤的資料\作業\物件導向\109_Quiz_Practice\Quiz6_test\Quiz6_test\obj\Debug\Quiz6_test.pdb

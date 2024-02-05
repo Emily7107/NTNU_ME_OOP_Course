@@ -1,0 +1,7 @@
+C:\Users\Emily Wu\Desktop\庭妤的資料\作業\物件導向\109_Quiz_Practice\u40873038h_Quiz2\u40873038h_Quiz2\bin\Debug\u40873038h_Quiz2.exe.config
+C:\Users\Emily Wu\Desktop\庭妤的資料\作業\物件導向\109_Quiz_Practice\u40873038h_Quiz2\u40873038h_Quiz2\bin\Debug\u40873038h_Quiz2.exe
+C:\Users\Emily Wu\Desktop\庭妤的資料\作業\物件導向\109_Quiz_Practice\u40873038h_Quiz2\u40873038h_Quiz2\bin\Debug\u40873038h_Quiz2.pdb
+C:\Users\Emily Wu\Desktop\庭妤的資料\作業\物件導向\109_Quiz_Practice\u40873038h_Quiz2\u40873038h_Quiz2\obj\Debug\u40873038h_Quiz2.csproj.AssemblyReference.cache
+C:\Users\Emily Wu\Desktop\庭妤的資料\作業\物件導向\109_Quiz_Practice\u40873038h_Quiz2\u40873038h_Quiz2\obj\Debug\u40873038h_Quiz2.csproj.CoreCompileInputs.cache
+C:\Users\Emily Wu\Desktop\庭妤的資料\作業\物件導向\109_Quiz_Practice\u40873038h_Quiz2\u40873038h_Quiz2\obj\Debug\u40873038h_Quiz2.exe
+C:\Users\Emily Wu\Desktop\庭妤的資料\作業\物件導向\109_Quiz_Practice\u40873038h_Quiz2\u40873038h_Quiz2\obj\Debug\u40873038h_Quiz2.pdb

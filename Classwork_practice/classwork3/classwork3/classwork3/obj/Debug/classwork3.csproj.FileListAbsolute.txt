@@ -1,0 +1,7 @@
+C:\Users\Emily Wu\Desktop\庭妤的資料\作業\物件導向\classwork_practice\classwork3\classwork3\classwork3\obj\Debug\classwork3.csproj.AssemblyReference.cache
+C:\Users\Emily Wu\Desktop\庭妤的資料\作業\物件導向\classwork_practice\classwork3\classwork3\classwork3\obj\Debug\classwork3.csproj.CoreCompileInputs.cache
+C:\Users\Emily Wu\Desktop\庭妤的資料\作業\物件導向\classwork_practice\classwork3\classwork3\classwork3\bin\Debug\classwork3.exe.config
+C:\Users\Emily Wu\Desktop\庭妤的資料\作業\物件導向\classwork_practice\classwork3\classwork3\classwork3\bin\Debug\classwork3.exe
+C:\Users\Emily Wu\Desktop\庭妤的資料\作業\物件導向\classwork_practice\classwork3\classwork3\classwork3\bin\Debug\classwork3.pdb
+C:\Users\Emily Wu\Desktop\庭妤的資料\作業\物件導向\classwork_practice\classwork3\classwork3\classwork3\obj\Debug\classwork3.exe
+C:\Users\Emily Wu\Desktop\庭妤的資料\作業\物件導向\classwork_practice\classwork3\classwork3\classwork3\obj\Debug\classwork3.pdb

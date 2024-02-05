@@ -1,0 +1,19 @@
+D:\sdwu\師大\教學\精修課程\物件導向程式設計\106Classwork\Classwork6\104_Classwork5\bin\Debug\104_Classwork5.exe.config
+D:\sdwu\師大\教學\精修課程\物件導向程式設計\106Classwork\Classwork6\104_Classwork5\bin\Debug\104_Classwork5.exe
+D:\sdwu\師大\教學\精修課程\物件導向程式設計\106Classwork\Classwork6\104_Classwork5\bin\Debug\104_Classwork5.pdb
+D:\sdwu\師大\教學\精修課程\物件導向程式設計\106Classwork\Classwork6\104_Classwork5\obj\Debug\106_Classwork6.csprojResolveAssemblyReference.cache
+D:\sdwu\師大\教學\精修課程\物件導向程式設計\106Classwork\Classwork6\104_Classwork5\obj\Debug\_106_Quiz6.Form1.resources
+D:\sdwu\師大\教學\精修課程\物件導向程式設計\106Classwork\Classwork6\104_Classwork5\obj\Debug\_104_Classwork5.Properties.Resources.resources
+D:\sdwu\師大\教學\精修課程\物件導向程式設計\106Classwork\Classwork6\104_Classwork5\obj\Debug\106_Classwork6.csproj.GenerateResource.Cache
+D:\sdwu\師大\教學\精修課程\物件導向程式設計\106Classwork\Classwork6\104_Classwork5\obj\Debug\104_Classwork5.exe
+D:\sdwu\師大\教學\精修課程\物件導向程式設計\106Classwork\Classwork6\104_Classwork5\obj\Debug\104_Classwork5.pdb
+C:\Users\Emily Wu\Desktop\庭妤的資料\作業\物件導向\考題-20210925\109_臺灣師範大學機電工程系物件導向程式設計_Quiz7\106_臺灣師範大學機電工程系物件導向程式設計_Classwork6\Classwork6\104_Classwork5\bin\Debug\104_Classwork5.exe.config
+C:\Users\Emily Wu\Desktop\庭妤的資料\作業\物件導向\考題-20210925\109_臺灣師範大學機電工程系物件導向程式設計_Quiz7\106_臺灣師範大學機電工程系物件導向程式設計_Classwork6\Classwork6\104_Classwork5\bin\Debug\104_Classwork5.exe
+C:\Users\Emily Wu\Desktop\庭妤的資料\作業\物件導向\考題-20210925\109_臺灣師範大學機電工程系物件導向程式設計_Quiz7\106_臺灣師範大學機電工程系物件導向程式設計_Classwork6\Classwork6\104_Classwork5\bin\Debug\104_Classwork5.pdb
+C:\Users\Emily Wu\Desktop\庭妤的資料\作業\物件導向\考題-20210925\109_臺灣師範大學機電工程系物件導向程式設計_Quiz7\106_臺灣師範大學機電工程系物件導向程式設計_Classwork6\Classwork6\104_Classwork5\obj\Debug\106_Classwork6.csproj.AssemblyReference.cache
+C:\Users\Emily Wu\Desktop\庭妤的資料\作業\物件導向\考題-20210925\109_臺灣師範大學機電工程系物件導向程式設計_Quiz7\106_臺灣師範大學機電工程系物件導向程式設計_Classwork6\Classwork6\104_Classwork5\obj\Debug\_106_Quiz6.Form1.resources
+C:\Users\Emily Wu\Desktop\庭妤的資料\作業\物件導向\考題-20210925\109_臺灣師範大學機電工程系物件導向程式設計_Quiz7\106_臺灣師範大學機電工程系物件導向程式設計_Classwork6\Classwork6\104_Classwork5\obj\Debug\_104_Classwork5.Properties.Resources.resources
+C:\Users\Emily Wu\Desktop\庭妤的資料\作業\物件導向\考題-20210925\109_臺灣師範大學機電工程系物件導向程式設計_Quiz7\106_臺灣師範大學機電工程系物件導向程式設計_Classwork6\Classwork6\104_Classwork5\obj\Debug\106_Classwork6.csproj.GenerateResource.cache
+C:\Users\Emily Wu\Desktop\庭妤的資料\作業\物件導向\考題-20210925\109_臺灣師範大學機電工程系物件導向程式設計_Quiz7\106_臺灣師範大學機電工程系物件導向程式設計_Classwork6\Classwork6\104_Classwork5\obj\Debug\106_Classwork6.csproj.CoreCompileInputs.cache
+C:\Users\Emily Wu\Desktop\庭妤的資料\作業\物件導向\考題-20210925\109_臺灣師範大學機電工程系物件導向程式設計_Quiz7\106_臺灣師範大學機電工程系物件導向程式設計_Classwork6\Classwork6\104_Classwork5\obj\Debug\104_Classwork5.exe
+C:\Users\Emily Wu\Desktop\庭妤的資料\作業\物件導向\考題-20210925\109_臺灣師範大學機電工程系物件導向程式設計_Quiz7\106_臺灣師範大學機電工程系物件導向程式設計_Classwork6\Classwork6\104_Classwork5\obj\Debug\104_Classwork5.pdb

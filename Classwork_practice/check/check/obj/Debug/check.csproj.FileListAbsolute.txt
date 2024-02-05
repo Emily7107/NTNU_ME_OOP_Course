@@ -1,0 +1,7 @@
+C:\Users\Emily Wu\Desktop\庭妤的資料\作業\物件導向\classwork_practice\check\check\bin\Debug\check.exe.config
+C:\Users\Emily Wu\Desktop\庭妤的資料\作業\物件導向\classwork_practice\check\check\bin\Debug\check.exe
+C:\Users\Emily Wu\Desktop\庭妤的資料\作業\物件導向\classwork_practice\check\check\bin\Debug\check.pdb
+C:\Users\Emily Wu\Desktop\庭妤的資料\作業\物件導向\classwork_practice\check\check\obj\Debug\check.csproj.AssemblyReference.cache
+C:\Users\Emily Wu\Desktop\庭妤的資料\作業\物件導向\classwork_practice\check\check\obj\Debug\check.csproj.CoreCompileInputs.cache
+C:\Users\Emily Wu\Desktop\庭妤的資料\作業\物件導向\classwork_practice\check\check\obj\Debug\check.exe
+C:\Users\Emily Wu\Desktop\庭妤的資料\作業\物件導向\classwork_practice\check\check\obj\Debug\check.pdb

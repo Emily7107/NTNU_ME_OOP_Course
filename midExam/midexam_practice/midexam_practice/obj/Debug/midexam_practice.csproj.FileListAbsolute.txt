@@ -1,0 +1,10 @@
+C:\Users\Emily Wu\Desktop\庭妤的資料\作業\物件導向\109_Quiz_Practice\midexam_practice\midexam_practice\bin\Debug\midexam_practice.exe.config
+C:\Users\Emily Wu\Desktop\庭妤的資料\作業\物件導向\109_Quiz_Practice\midexam_practice\midexam_practice\bin\Debug\midexam_practice.exe
+C:\Users\Emily Wu\Desktop\庭妤的資料\作業\物件導向\109_Quiz_Practice\midexam_practice\midexam_practice\bin\Debug\midexam_practice.pdb
+C:\Users\Emily Wu\Desktop\庭妤的資料\作業\物件導向\109_Quiz_Practice\midexam_practice\midexam_practice\obj\Debug\midexam_practice.csproj.AssemblyReference.cache
+C:\Users\Emily Wu\Desktop\庭妤的資料\作業\物件導向\109_Quiz_Practice\midexam_practice\midexam_practice\obj\Debug\midexam_practice.Form1.resources
+C:\Users\Emily Wu\Desktop\庭妤的資料\作業\物件導向\109_Quiz_Practice\midexam_practice\midexam_practice\obj\Debug\midexam_practice.Properties.Resources.resources
+C:\Users\Emily Wu\Desktop\庭妤的資料\作業\物件導向\109_Quiz_Practice\midexam_practice\midexam_practice\obj\Debug\midexam_practice.csproj.GenerateResource.cache
+C:\Users\Emily Wu\Desktop\庭妤的資料\作業\物件導向\109_Quiz_Practice\midexam_practice\midexam_practice\obj\Debug\midexam_practice.csproj.CoreCompileInputs.cache
+C:\Users\Emily Wu\Desktop\庭妤的資料\作業\物件導向\109_Quiz_Practice\midexam_practice\midexam_practice\obj\Debug\midexam_practice.exe
+C:\Users\Emily Wu\Desktop\庭妤的資料\作業\物件導向\109_Quiz_Practice\midexam_practice\midexam_practice\obj\Debug\midexam_practice.pdb

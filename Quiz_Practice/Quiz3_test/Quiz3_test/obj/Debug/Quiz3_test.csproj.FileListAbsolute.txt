@@ -1,0 +1,7 @@
+C:\Users\Emily Wu\Desktop\庭妤的資料\作業\物件導向\109_Quiz_Practice\Quiz3_test\Quiz3_test\bin\Debug\Quiz3_test.exe.config
+C:\Users\Emily Wu\Desktop\庭妤的資料\作業\物件導向\109_Quiz_Practice\Quiz3_test\Quiz3_test\bin\Debug\Quiz3_test.exe
+C:\Users\Emily Wu\Desktop\庭妤的資料\作業\物件導向\109_Quiz_Practice\Quiz3_test\Quiz3_test\bin\Debug\Quiz3_test.pdb
+C:\Users\Emily Wu\Desktop\庭妤的資料\作業\物件導向\109_Quiz_Practice\Quiz3_test\Quiz3_test\obj\Debug\Quiz3_test.csproj.AssemblyReference.cache
+C:\Users\Emily Wu\Desktop\庭妤的資料\作業\物件導向\109_Quiz_Practice\Quiz3_test\Quiz3_test\obj\Debug\Quiz3_test.csproj.CoreCompileInputs.cache
+C:\Users\Emily Wu\Desktop\庭妤的資料\作業\物件導向\109_Quiz_Practice\Quiz3_test\Quiz3_test\obj\Debug\Quiz3_test.exe
+C:\Users\Emily Wu\Desktop\庭妤的資料\作業\物件導向\109_Quiz_Practice\Quiz3_test\Quiz3_test\obj\Debug\Quiz3_test.pdb

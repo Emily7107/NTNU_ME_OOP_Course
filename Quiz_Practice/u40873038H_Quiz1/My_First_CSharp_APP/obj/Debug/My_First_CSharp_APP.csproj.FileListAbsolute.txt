@@ -1,0 +1,7 @@
+C:\Users\Emily Wu\Desktop\庭妤的資料\作業\物件導向\My_First_CSharp_APP\My_First_CSharp_APP\obj\Debug\My_First_CSharp_APP.csproj.AssemblyReference.cache
+C:\Users\Emily Wu\Desktop\庭妤的資料\作業\物件導向\My_First_CSharp_APP\My_First_CSharp_APP\obj\Debug\My_First_CSharp_APP.csproj.CoreCompileInputs.cache
+C:\Users\Emily Wu\Desktop\庭妤的資料\作業\物件導向\My_First_CSharp_APP\My_First_CSharp_APP\bin\Debug\師大機電系.exe.config
+C:\Users\Emily Wu\Desktop\庭妤的資料\作業\物件導向\My_First_CSharp_APP\My_First_CSharp_APP\bin\Debug\師大機電系.exe
+C:\Users\Emily Wu\Desktop\庭妤的資料\作業\物件導向\My_First_CSharp_APP\My_First_CSharp_APP\bin\Debug\師大機電系.pdb
+C:\Users\Emily Wu\Desktop\庭妤的資料\作業\物件導向\My_First_CSharp_APP\My_First_CSharp_APP\obj\Debug\師大機電系.exe
+C:\Users\Emily Wu\Desktop\庭妤的資料\作業\物件導向\My_First_CSharp_APP\My_First_CSharp_APP\obj\Debug\師大機電系.pdb

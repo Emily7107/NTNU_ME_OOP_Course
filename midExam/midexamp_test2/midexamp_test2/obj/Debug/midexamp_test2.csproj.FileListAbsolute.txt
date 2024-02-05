@@ -1,0 +1,10 @@
+C:\Users\Emily Wu\Desktop\庭妤的資料\作業\物件導向\109_Quiz_Practice\midexamp_test2\midexamp_test2\bin\Debug\midexamp_test2.exe.config
+C:\Users\Emily Wu\Desktop\庭妤的資料\作業\物件導向\109_Quiz_Practice\midexamp_test2\midexamp_test2\bin\Debug\midexamp_test2.exe
+C:\Users\Emily Wu\Desktop\庭妤的資料\作業\物件導向\109_Quiz_Practice\midexamp_test2\midexamp_test2\bin\Debug\midexamp_test2.pdb
+C:\Users\Emily Wu\Desktop\庭妤的資料\作業\物件導向\109_Quiz_Practice\midexamp_test2\midexamp_test2\obj\Debug\midexamp_test2.csproj.AssemblyReference.cache
+C:\Users\Emily Wu\Desktop\庭妤的資料\作業\物件導向\109_Quiz_Practice\midexamp_test2\midexamp_test2\obj\Debug\midexamp_test2.Form1.resources
+C:\Users\Emily Wu\Desktop\庭妤的資料\作業\物件導向\109_Quiz_Practice\midexamp_test2\midexamp_test2\obj\Debug\midexamp_test2.Properties.Resources.resources
+C:\Users\Emily Wu\Desktop\庭妤的資料\作業\物件導向\109_Quiz_Practice\midexamp_test2\midexamp_test2\obj\Debug\midexamp_test2.csproj.GenerateResource.cache
+C:\Users\Emily Wu\Desktop\庭妤的資料\作業\物件導向\109_Quiz_Practice\midexamp_test2\midexamp_test2\obj\Debug\midexamp_test2.csproj.CoreCompileInputs.cache
+C:\Users\Emily Wu\Desktop\庭妤的資料\作業\物件導向\109_Quiz_Practice\midexamp_test2\midexamp_test2\obj\Debug\midexamp_test2.exe
+C:\Users\Emily Wu\Desktop\庭妤的資料\作業\物件導向\109_Quiz_Practice\midexamp_test2\midexamp_test2\obj\Debug\midexamp_test2.pdb

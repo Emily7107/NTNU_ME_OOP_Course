@@ -1,0 +1,10 @@
+C:\Users\Emily Wu\Desktop\庭妤的資料\作業\物件導向\109_Quiz_Practice\u40873038H_Quiz6\u40873038H_classwork6\bin\Debug\u40873038H_classwork6.exe.config
+C:\Users\Emily Wu\Desktop\庭妤的資料\作業\物件導向\109_Quiz_Practice\u40873038H_Quiz6\u40873038H_classwork6\bin\Debug\u40873038H_classwork6.exe
+C:\Users\Emily Wu\Desktop\庭妤的資料\作業\物件導向\109_Quiz_Practice\u40873038H_Quiz6\u40873038H_classwork6\bin\Debug\u40873038H_classwork6.pdb
+C:\Users\Emily Wu\Desktop\庭妤的資料\作業\物件導向\109_Quiz_Practice\u40873038H_Quiz6\u40873038H_classwork6\obj\Debug\u40873038H_Quiz6.csproj.AssemblyReference.cache
+C:\Users\Emily Wu\Desktop\庭妤的資料\作業\物件導向\109_Quiz_Practice\u40873038H_Quiz6\u40873038H_classwork6\obj\Debug\u40873038H_Quiz6.Form1.resources
+C:\Users\Emily Wu\Desktop\庭妤的資料\作業\物件導向\109_Quiz_Practice\u40873038H_Quiz6\u40873038H_classwork6\obj\Debug\u40873038H_classwork6.Properties.Resources.resources
+C:\Users\Emily Wu\Desktop\庭妤的資料\作業\物件導向\109_Quiz_Practice\u40873038H_Quiz6\u40873038H_classwork6\obj\Debug\u40873038H_Quiz6.csproj.GenerateResource.cache
+C:\Users\Emily Wu\Desktop\庭妤的資料\作業\物件導向\109_Quiz_Practice\u40873038H_Quiz6\u40873038H_classwork6\obj\Debug\u40873038H_Quiz6.csproj.CoreCompileInputs.cache
+C:\Users\Emily Wu\Desktop\庭妤的資料\作業\物件導向\109_Quiz_Practice\u40873038H_Quiz6\u40873038H_classwork6\obj\Debug\u40873038H_classwork6.exe
+C:\Users\Emily Wu\Desktop\庭妤的資料\作業\物件導向\109_Quiz_Practice\u40873038H_Quiz6\u40873038H_classwork6\obj\Debug\u40873038H_classwork6.pdb
